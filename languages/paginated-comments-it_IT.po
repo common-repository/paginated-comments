@@ -1,0 +1,186 @@
+# Paginated Comments POT File.
+# This file is distributed under the same license as Paginated Comments Plugin.
+# James Maurer <jamesmaurerllc@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Paginated Comments in italiano\n"
+"Report-Msgid-Bugs-To: jamesmaurerllc@gmail.com\n"
+"POT-Creation-Date: 2008-03-04 18:00+0000\n"
+"PO-Revision-Date: 2008-05-12 18:26+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: gidibao.net <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: paginated-comments.php:137
+msgid "Pagination"
+msgstr "Impaginazione"
+
+#: paginated-comments.php:141
+msgid "Paginate"
+msgstr "Numerazione delle pagine"
+
+#: paginated-comments.php:143
+msgid "Posts"
+msgstr "Articoli"
+
+#: paginated-comments.php:144
+#: paginated-comments.php:168
+msgid "Pages"
+msgstr "Pagine"
+
+#: paginated-comments.php:148
+msgid "Method"
+msgstr "Metodo"
+
+#: paginated-comments.php:151
+msgid "Number Of Comments"
+msgstr "Numero dei commenti"
+
+#: paginated-comments.php:152
+msgid "Size Of Comments"
+msgstr "Dimensione dei commenti"
+
+#: paginated-comments.php:157
+msgid "Ordering"
+msgstr "Disposizione"
+
+#: paginated-comments.php:160
+#: paginated-comments.php:205
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: paginated-comments.php:161
+#: paginated-comments.php:206
+msgid "Descending"
+msgstr "Discendente"
+
+#: paginated-comments.php:166
+msgid "Range"
+msgstr "Assortimento"
+
+#: paginated-comments.php:172
+msgid "Per Page"
+msgstr "Per pagina"
+
+#: paginated-comments.php:174
+msgid "Comments"
+msgstr "Commenti"
+
+#: paginated-comments.php:178
+msgid "Per Size"
+msgstr "Per dimensione"
+
+#: paginated-comments.php:184
+msgid "Fill Last Page"
+msgstr "Riempi l'ultima pagina"
+
+#: paginated-comments.php:187
+#: paginated-comments.php:196
+#: paginated-comments.php:259
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: paginated-comments.php:188
+#: paginated-comments.php:197
+#: paginated-comments.php:260
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: paginated-comments.php:193
+msgid "Show-All"
+msgstr "Mostra tutto"
+
+#: paginated-comments.php:202
+msgid "Show-All Ordering"
+msgstr "Mostra tutta la disposizione"
+
+#: paginated-comments.php:211
+msgid "Default Page"
+msgstr "Pagina predefinita"
+
+#: paginated-comments.php:214
+msgid "Auto"
+msgstr "Auto"
+
+#: paginated-comments.php:215
+msgid "First"
+msgstr "Primo"
+
+#: paginated-comments.php:216
+msgid "Last"
+msgstr "Ultimo"
+
+#: paginated-comments.php:223
+msgid "Personalization"
+msgstr "Personalizzazione"
+
+#: paginated-comments.php:227
+msgid "Insert On Pages"
+msgstr "Inserisci nelle pagine"
+
+#: paginated-comments.php:229
+msgid "Description"
+msgstr "Descrizione"
+
+#: paginated-comments.php:230
+msgid "Keywords"
+msgstr "Parole chiave"
+
+#: paginated-comments.php:234
+msgid "Default Description"
+msgstr "Descrizione predefinita"
+
+#: paginated-comments.php:240
+msgid "Page Title"
+msgstr "Titolo della pagina"
+
+#: paginated-comments.php:246
+msgid "Page Content"
+msgstr "Contenuto della pagina"
+
+#: paginated-comments.php:249
+msgid "Full"
+msgstr "Completo"
+
+#: paginated-comments.php:250
+msgid "Excerpt"
+msgstr "Estratto"
+
+#: paginated-comments.php:251
+msgid "Nothing"
+msgstr "Nulla"
+
+#: paginated-comments.php:256
+msgid "Pretty Permalinks"
+msgstr "Pretty Permalinks"
+
+#: paginated-comments.php:265
+msgid "Page Slug"
+msgstr "Slug della pagina"
+
+#: paginated-comments.php:271
+msgid "Show-All Slug"
+msgstr "Mostra tutti gli slug"
+
+#: paginated-comments.php:993
+msgid "Show All"
+msgstr "Mostra tutto"
+
+#: paginated-comments.php:994
+msgid "Older Comments"
+msgstr "Commenti vecchi"
+
+#: paginated-comments.php:995
+msgid "Newer Comments"
+msgstr "Commenti recenti"
+
+#: paginated-comments.php:996
+msgid "Show All Comments"
+msgstr "Mostra tutti i commenti"
+
